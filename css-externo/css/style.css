@@ -1,0 +1,25 @@
+
+h1,h2,p,ul,footer {
+    color: #7d9418;
+}
+
+h1{
+    text-align:center ; font-size: 300%;font-family: 'Times New Roman';
+}
+
+p{
+    margin-left: 2%;margin-right: 2%; text-indent: 20px;
+}
+
+h2{
+    text-indent: 25px;
+}
+
+img{
+    display: block;margin: auto;
+}
+
+body{
+    background-color: #dfffaa;
+}
+ 
